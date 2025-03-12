@@ -1,4 +1,4 @@
-# 📅 Relógio Mundial em Python com Streamlit  
+# 📅 Relógio Horario do Brasil e seus fuso horarios em Python com Streamlit  
 
 Este projeto exibe um relógio digital em tempo real, destacando o horário de Brasília e de diferentes fusos horários do Brasil, como Acre, Amazonas e Fernando de Noronha. Além disso, as cores das letras mudam automaticamente a cada 3 minutos.
 
