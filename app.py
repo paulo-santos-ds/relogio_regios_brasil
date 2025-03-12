@@ -70,6 +70,7 @@ def main():
     if 'last_color_change' not in st.session_state:
         st.session_state.last_color_change = datetime.datetime.now()
         st.session_state.current_color = color_palette[0]
+        
     
     # Placeholder for storing color index
     if 'color_index' not in st.session_state:

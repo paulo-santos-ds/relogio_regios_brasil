@@ -28,7 +28,7 @@ RELOGIO_REGIOS_BRASIL/
 1. **Clone o repositório:**  
    ```bash
    git clone git@github.com:paulo-santos-ds/relogio_regios_brasil.git
-   cd relogio-streamlit
+   cd relogio_regios_brasil
    ```  
 2. **Instale as dependências:**  
    ```bash
